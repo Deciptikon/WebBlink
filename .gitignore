@@ -1,0 +1,7 @@
+esp32/wifiBlink/README.md
+esp32/wifiBlink/.devcontainer/
+esp32/wifiBlink/.vscode/
+esp32/wifiBlink/build/
+*.elf
+*.bin
+*.map
